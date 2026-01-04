@@ -10,10 +10,10 @@ export default function Footer({ year = new Date().getFullYear() }) {
             </div>
 
             <div>
-              <div className="text-xs text-muted-foreground">Coming Soon</div>
+              <div className="text-xs text-muted-foreground">Developer Vikki</div>
 
               <div className="mt-3 text-xs text-muted-foreground">
-                <span>© {year} Coming Soon.</span>{" "}
+                <span>© {year} Developer Vikki.</span>{" "}
                 <span className="block md:inline">All rights reserved.</span>
               </div>
             </div>
